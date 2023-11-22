@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Classroom {
-}
+
     Student[] students;
     private int maxNumberOfStudents;
 
